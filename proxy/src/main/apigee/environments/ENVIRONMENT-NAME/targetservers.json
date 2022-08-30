@@ -1,7 +1,7 @@
 [
     {
         "name": "products",
-        "host": "cloud.hipster.s.apigee.com",
+        "host": "cloud.hipster.s.dynolab.io",
         "port": 443,
         "isEnabled" : true,
         "sSLInfo": {
